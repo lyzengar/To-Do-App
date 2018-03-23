@@ -1,0 +1,33 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    border: 2px solid black;
+    width: 400px;
+    height: 600px;
+}
+
+h3 {
+    text-align: center;
+}
+
+#addLine {
+    text-align: center;
+}
+
+#addLine {
+    margin: 20px;
+}
+
+#addItem {
+    width: 200px;
+    height: 40px;
+    border-radius: 4px;
+}
+
+#submit {
+    width: 100px;
+    height: 46px;
+    border-radius: 4px;
+}
